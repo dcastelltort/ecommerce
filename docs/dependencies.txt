@@ -1,0 +1,2 @@
+JSTL 1.2
+Jasypt 1.9
